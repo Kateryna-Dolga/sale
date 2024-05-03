@@ -44,7 +44,7 @@ span {
 }
 /*--------------------------------------------------------------------------------------------*/
 
-div{
+dv{
     border: 1px solid black;
 }
 .content{
@@ -57,6 +57,20 @@ display: flex;
      margin: 0 auto;
 }
 
+.sale-htwo{
+font-weight: 600;
+    font-size: 48px;
+    line-height: 0.91667;
+    letter-spacing: -0.02em;
+    color: #0c0c0c;
+    margin-bottom: 40px;
+    margin-left: 65px;
+ 
+}
+.sale-htwo-div{
+width: 1280px;
+margin: 0 auto;
+}
 /*--------------------small-watch-----------------------------------------------------------------------*/
 
 .small-watch-ul{
